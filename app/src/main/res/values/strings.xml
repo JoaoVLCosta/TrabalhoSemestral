@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">TrabalhoSemestral</string>
+    <string name="autor">JOÃO VITOR LIMA COSTA - RA: 1110482313015</string>
+
+    <string name="tv_inicio">Registro de Ordens de Serviço</string>
+
+    <string name="menu_equipamento">Cadastro de Equipamento</string>
+    <string name="menu_cliente">Cadastro de Cliente</string>
+    <string name="menu_os">Ordem de Serviço</string>
+
+    <string name="et_codigo">Código</string>
+    <string name="et_nome">Nome</string>
+    <string name="et_custo">Custo Unitário</string>
+
+    <string name="rbt_fisica">Pessoa Fisica</string>
+    <string name="et_numero">Número</string>
+    <string name="et_cep">CEP</string>
+    <string name="et_cpf">CPF</string>
+
+    <string name="rbt_juridica">Pessoa Jurídica</string>
+    <string name="et_cnpj">CNPJ</string>
+    <string name="et_razao_social">Razão Social</string>
+    <string name="et_nome_fantasia">Nome Fantasia</string>
+
+    <string name="et_descricao">Descrição</string>
+    <string name="et_valor">Valor</string>
+    <string name="et_data">Data de Realização</string>
+
+    <string name="et_consultor">Nome do Consultor</string>
+    <string name="et_custo_hora">Custo por Hora</string>
+    <string name="et_horas">Horas de Serviço</string>
+
+    <string name="et_manutencao">Tipo de Manutenção</string>
+
+    <string name="sp_cliente">Selecione um Cliente</string>
+    <string name="sp_equipamento">Selecione um Produto</string>
+
+    <string name="btn_inserir">Inserir</string>
+    <string name="btn_modificar">Modificar</string>
+    <string name="btn_excluir">Excluir</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="btn_listar">Listar</string>
+
+    <string name="btn_gerarOS">Gerar Ordem de Serviço</string>
+    <string name="btn_consultarOS">Consultar Ordens de Serviço</string>
+
+    <string name="rbtn_consultoria">Ordem de Serviço de Consultoria </string>
+    <string name="rbtn_manutencao">Ordem de Serviço de Manutenção</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="btn_calcular">calcular</string>
+    <string name="btn_voltar">voltar</string>
+    <string name="btn_adicionar">adicionar</string>
+
+</resources>
